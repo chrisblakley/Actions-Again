@@ -5,7 +5,7 @@ jobs:
     name: WebPageTestActions
     runs-on: ubuntu-latest
     steps:
-      - uses: JCofman/webPagetestAction@1.0.0
+      - uses: JCofman/webPagetestAction@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TEST_URL: https://gearside.com/nebula/

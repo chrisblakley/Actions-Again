@@ -5,7 +5,7 @@ jobs:
     name: WebPageTestActions
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - uses: JCofman/webPagetestAction@1.0.0
       - name: WebPageTestActions
         uses: ./
         env:

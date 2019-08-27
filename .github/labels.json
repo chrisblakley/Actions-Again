@@ -15,5 +15,5 @@
 	{"name": ":thought_balloon: Question / Research", "color": "cc317c", "description": "Additional research/discussion is needed to answer this question."},
 	{"name": ":unicorn: Wishlist", "color": "bfe5bf", "description": "This is an elaborate idea that may not even be possible."},
 	{"name": "Unsuccessful / Won't Fix / Duplicate", "color": "cccccc", "description": "A suitable solution was not found, or a fix was not needed due to other circumstances."},
-	{"name": "WP Admin / Shortcode / Widget", "color": "21759b", "description": "Related to the WordPress admin-side (like the Dashboard), or shortcodes/widgets."},
+	{"name": "WP Admin / Shortcode / Widget", "color": "21759b", "description": "Related to the WordPress admin-side (like the Dashboard), or shortcodes/widgets."}
 ]
